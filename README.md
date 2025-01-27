@@ -11,6 +11,7 @@
 `Gongniu` is an innovative agent development framework designed to build a highly composable, autonomous, and permanently memory-enabled AI agent network. By connecting agents across various industries, Anda aims to create a super AGI system, advancing artificial intelligence to higher levels.
 
 
+![bull_with_green_lines](https://github.com/user-attachments/assets/5bfb18a2-33a1-49fa-b8fa-721e25f49bcb)
 
 ### ✨ Key Features
 
