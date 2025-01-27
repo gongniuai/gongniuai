@@ -1,6 +1,6 @@
 # `gongniuai`
 
-> 🤖 First AI agent using ANDA (Deepseek Framework)
+> 🤖 First AI agent using ANDA (Deepseek Framework) by https://xiehaoran.net/
 
 ## 🌍 README Translations
 
