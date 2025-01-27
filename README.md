@@ -36,16 +36,6 @@ Gongniu's goal is to create and connect with countless ahumans, building an open
 
 
 
-#### For Non-Developers:
-
-You can follow the agents in the `agents` directory. For example, [`anda_bot`](https://github.com/ldclabs/anda/tree/main/agents/anda_bot)—simply copy the [nitro_enclave](https://github.com/ldclabs/anda/tree/main/agents/anda_bot/nitro_enclave) folder, modify the `Character.toml` role definition and `Config.toml` runtime parameters, and deploy according to the tutorial.
-The deployment process is currently complex, but we plan to launch a cloud service for one-click deployment in the future.
-
-#### For Developers:
-
-- Add more integration tools with external services in `tools`;
-- Create more agent applications in `agents`;
-- Or enhance the core engines `anda_core` and `anda_engine`.
 
 ### Related Projects
 
